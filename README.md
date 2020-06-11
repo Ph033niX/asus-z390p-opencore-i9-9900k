@@ -6,7 +6,7 @@ Opencore Vanilla MacOS Catalina 10.15.5 Build EFI files for Hackintosh built on 
 2. MacOS Catalina 10.15.5 (19F101)
 3. Processor: 3.6 GHz 8-Core Intel Core i9 9900K
 4. Motherboard: Asus Prime Z390 P
-5. Graphics: Intel UHD 630 & Nvidia 2080Ti working on an Asus 144hz monitor with full resolution & 144hz refresh rate (Only using iGPU in MacOS. Nvidia is disabled in Macos via WhateverGreen, works well in dual boot for other operating systems including Windows &amp; linux)
+5. Graphics: Intel UHD 630 & Nvidia 2080Ti (disabled via WhateverGreen) on an Asus 144hz monitor with full resolution & 144hz refresh rate
 
 Use the files & copy to EFI folder if you have the same motherboard & CPU configuration
 
