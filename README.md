@@ -8,7 +8,7 @@ Opencore Vanilla MacOS Catalina 10.15.5 Build EFI files for Hackintosh built on 
 4. Motherboard: Asus Prime Z390 P
 5. Graphics: Intel UHD 630 & Nvidia 2080Ti (disabled via WhateverGreen) on an Acer 144hz monitor with full resolution & 144hz refresh rate
 
-Use the files & copy to EFI folder if you have the same motherboard & CPU configuration
+<strong>Note</strong>: Use the files for reference, make changes according to your requirements & then copy to EFI folder if you have the same motherboard & CPU configuration. It's generally not recommended to copy someone else's EFI folder as it is, as your system configuration might be a little different than mine, even if you've the same motherboard, CPU & GPU
 
 # TO DO BEFORE COPYING FILES TO YOUR EFI DRIVE
 1. <a href="https://dortania.github.io/OpenCore-Desktop-Guide/">Follow this guide</a> for initial setup & creating a bootable MacOS USB
