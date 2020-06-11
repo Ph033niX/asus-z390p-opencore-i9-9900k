@@ -13,4 +13,4 @@ Use the files & copy to EFI folder if you have the same motherboard & CPU config
 # TO DO BEFORE COPYING FILES TO YOUR EFI DRIVE
 1. <a href="https://dortania.github.io/OpenCore-Desktop-Guide/">Follow this guide</a> for initial setup & creating a bootable MacOS USB
 2. Change SMBIOS, i.e "PlatformInfo", "MLB", "ROM", "SystemProductName", "SystemSerialNumber" &amp; "SystemUUID" using <a href="https://github.com/corpnewt/GenSMBIOS">GenSMBIOS</a>
-3. If you have a supported AMD external GPU, remove <code>-wegnoegpu</code> from <code>boot-args</code>
+3. If you have a supported AMD external GPU, remove <code>-wegnoegpu</code> from <code>boot-args</code> in config.plist
